@@ -294,7 +294,7 @@ var products = {
         },
         {
             name: "Glam Waterproof Mascara",
-            price: 199.00,
+            price: 299.00,
             short_description: "Waterproof Mascara",
             description: "Glam Waterproof Mascara delivers dramatic volume and length in a single coat while staying smudge-proof and waterproof.",
             src: "./nocategory/mascara/",
@@ -385,7 +385,7 @@ var products = {
 
         {
             name: "Glam Lip Therapy",
-            price: 399.00,
+            price: 299.00,
             short_description: "Moisturizing & Soothing to Lips",
             description: "Soothe and hydrate your lips with the Glam Lip Therapy, a must-have for soft, supple lips.",
             src: "./lipsticks/glam_lip_therapy/",
