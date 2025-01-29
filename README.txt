@@ -1,4 +1,4 @@
-Run index.html
+To test our website just run index.html
 
 What is Glam Essence?
 
